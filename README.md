@@ -1,4 +1,8 @@
-## Hi there 👋
+##Hi there 👋
+###Soy luis alessandro llacsahuanga aguilar,, tengo 19 años y soy estudiante de Ingenieria de Sistemas e Informatica.
+#### Me apasiona la tecnologia, y me motiva el saber como es el back-end de cada preyecto.
+#### Ademas , me encanta el voley y el tenis.
+##Soy joven, pero estoy ansioso por mi futuro, y creanme me esforzaré cada segundo que pase<3
 
 <!--
 **luisllacsa/luisllacsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
