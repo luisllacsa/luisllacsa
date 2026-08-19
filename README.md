@@ -1,6 +1,6 @@
-## Hola Guap@ 👋
-### Soy luis Alessandro Llacsahuanga Aguilar,, tengo 19 años y soy estudiante de la carrera de Ingenieria de Sistemas e Informatica.
-#### Me apasiona la tecnologia, y me motiva el saber como es el back-end de cada proyecto.Además, me encanta el voley y el tenis como no tiene idea jaja.
+## Hola Comunidad👋
+### Soy luis Alessandro Llacsahuanga Aguilar, estudiante de la carrera de Ingenieria de Sistemas e Informatica.
+#### Me apasiona la tecnologia, y me motiva dominar herramientas full-stack para cada proyecto de desarrollo de sofware.Asimismo, me interesa el Analisis de datos y gestion de ciberseguridad.
 ## Soy joven, pero estoy ansioso por mi futuro, y creanme me esforzaré cada segundo que pase<3.
 
 <!--
